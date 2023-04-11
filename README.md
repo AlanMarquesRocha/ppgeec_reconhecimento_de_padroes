@@ -1,0 +1,1 @@
+# ppgeec_reconhecimento_de_padroes
