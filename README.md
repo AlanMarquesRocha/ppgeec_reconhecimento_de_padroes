@@ -25,7 +25,7 @@ A lista de projetos (em construção) será disponibilizada na tabela a seguir:
 | Projeto | Descrição | Link |
 | --- | --- | --- |
 | 1º Projeto | Implementação dos métodos 1-nn, LDA e QDA para classificação da base ``dermatology``| [Link para acesso](https://github.com/AlanMarquesRocha/ppgeec_reconhecimento_de_padroes/tree/master/01_trabalho_rp_alan_marques_rocha_543897)
-| 2º projeto |Implementação de uma RNA-MLP para classificação do conjunto de dados ``Dermatology.dat`` | [Link para acesso]()
+| 2º projeto |Implementação de uma RNA-MLP para classificação do conjunto de dados ``dermatology``. Visualização da superfície de separação do conjunto de dados ``two_classes.dat`` com as redes MLP e RBF| [Link para acesso]()
 | 3º projeto | A definir | [Link para acesso]()
 | 4º Projeto | A definir | [Link para acesso]()
 
