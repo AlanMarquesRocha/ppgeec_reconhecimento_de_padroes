@@ -18,7 +18,7 @@ Disciplina: Reconhecimento de Padrões (RP) (BBP1028) - 2023.1 </h3>
 
 <br>
 
-Neste repositório, encontram-se os códigos implementados em cada projeto realizado na disciplina de ``Reconhecimento de Padrões (BBP1028)``. Todas as implementações serão feitas utilizando o software ``MATLAB R2022a``. <br>
+Neste repositório, encontram-se os códigos implementados em cada projeto realizado na disciplina de ``Reconhecimento de Padrões (BBP1028)``. Todas as implementações foram feitas utilizando o software ``MATLAB R2022a``. <br>
 
 A lista de projetos está disponibilizada na tabela a seguir:
 
@@ -26,10 +26,11 @@ A lista de projetos está disponibilizada na tabela a seguir:
 | --- | --- | --- |
 | 1º Projeto | Implementação dos métodos 1-nn, LDA e QDA para classificação da base ``dermatology``| [Link para acesso](https://github.com/AlanMarquesRocha/ppgeec_reconhecimento_de_padroes/tree/master/01_trabalho_rp_alan_marques_rocha_543897)
 | 2º projeto |Implementação de uma RNA-MLP para classificação do conjunto de dados ``dermatology``. Visualização da superfície de separação do conjunto de dados ``two_classes.dat`` com as redes MLP e RBF| [Link para acesso](https://github.com/AlanMarquesRocha/ppgeec_reconhecimento_de_padroes/tree/master/02_trabalho_rp_alan_marques_rocha_543897)
-| 3º projeto | Utilização de uma _Support Vector Machine_ para classificação da base ``dermatology`` | [Link para acesso]()
-| 4º Projeto | Seminário: Uma Breve Introdução à Visão Computacional | [Link para acesso]()
+| 3º projeto | Utilização de uma _Support Vector Machine_ para classificação da base ``dermatology`` | [Link para acesso](https://github.com/AlanMarquesRocha/ppgeec_reconhecimento_de_padroes/tree/master/03_trabalho_rp_alan_marques_rocha_543897)
+| 4º Projeto | Seminário: Uma Breve Introdução à Visão Computacional | [Link para acesso](https://github.com/AlanMarquesRocha/ppgeec_reconhecimento_de_padroes/tree/master/04_trabalho_rp_alan_marques_rocha_543897)
 
 <br>
 
+O uso dos materiais disponíveis abaixo fica a critério do usuário, isentando o autor principal de qualquer situação.
 
 ---
