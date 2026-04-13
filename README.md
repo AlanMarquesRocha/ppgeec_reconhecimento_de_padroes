@@ -31,6 +31,6 @@ A lista de projetos está disponibilizada na tabela a seguir:
 
 <br>
 
-O uso dos materiais disponíveis abaixo fica a critério do usuário, isentando o autor principal de qualquer situação.
+O uso dos materiais disponíveis acima fica a critério do usuário, isentando o autor principal de qualquer problema.
 
 ---
