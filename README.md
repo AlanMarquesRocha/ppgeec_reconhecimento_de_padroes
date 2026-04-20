@@ -18,7 +18,7 @@ Disciplina: Reconhecimento de Padrões (RP) (BBP1028) - 2023.1 </h3>
 
 <br>
 
-Nesta parte do repositório, encontram-se os códigos implementados em cada projeto realizado na disciplina de ``Reconhecimento de Padrões (BBP1028)`` referente ao semestre 2023.1 Todas as implementações foram feitas utilizando o software ``MATLAB R2022a``. <br>
+Nesta parte do repositório, encontram-se os códigos implementados em cada projeto realizado na disciplina de ``Reconhecimento de Padrões (BBP1028)`` referente ao semestre 2023.1. Todas as implementações foram feitas utilizando o software ``MATLAB R2022a``. <br>
 
 A lista de projetos está disponibilizada na tabela a seguir:
 
