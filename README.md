@@ -31,6 +31,10 @@ A lista de projetos está disponibilizada na tabela a seguir:
 
 <br>
 
+---
+<h3 align="center">Programa de Pós-graduação em Engenharia Elétrica e de Computação (PPGEEC) <br>
+Disciplina: Reconhecimento de Padrões (RP) (BBP1028) - 2026.1 </h3>
+
 O uso dos materiais disponíveis acima fica a critério do usuário, isentando o autor principal de qualquer problema.
 
 ---
