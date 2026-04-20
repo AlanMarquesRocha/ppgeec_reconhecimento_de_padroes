@@ -18,7 +18,7 @@ Disciplina: Reconhecimento de Padrões (RP) (BBP1028) - 2023.1 </h3>
 
 <br>
 
-Neste repositório, encontram-se os códigos implementados em cada projeto realizado na disciplina de ``Reconhecimento de Padrões (BBP1028)``. Todas as implementações foram feitas utilizando o software ``MATLAB R2022a``. <br>
+Nesta parte do repositório, encontram-se os códigos implementados em cada projeto realizado na disciplina de ``Reconhecimento de Padrões (BBP1028)`` referente ao semestre 2023.1 Todas as implementações foram feitas utilizando o software ``MATLAB R2022a``. <br>
 
 A lista de projetos está disponibilizada na tabela a seguir:
 
@@ -34,6 +34,10 @@ A lista de projetos está disponibilizada na tabela a seguir:
 ---
 <h3 align="center">Programa de Pós-graduação em Engenharia Elétrica e de Computação (PPGEEC) <br>
 Disciplina: Reconhecimento de Padrões (RP) (BBP1028) - 2026.1 </h3>
+
+Nesta parte do repositório, encontram-se os códigos implementados em cada projeto realizado na disciplina de ``Reconhecimento de Padrões (BBP1028)`` referente ao semestre 2026.1, com o objetivo de coorientar uma discente do programa. Todas as implementações foram feitas utilizando o software ``Octave 11.1.0 ``. <br>
+
+A lista de projetos será disponibilizada ao longo do semestre.
 
 O uso dos materiais disponíveis acima fica a critério do usuário, isentando o autor principal de qualquer problema.
 
