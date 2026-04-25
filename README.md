@@ -39,6 +39,19 @@ Nesta parte do repositório, encontram-se os códigos implementados em cada proj
 
 A lista de projetos será disponibilizada ao longo do semestre.
 
+A lista de projetos está disponibilizada na tabela a seguir:
+
+| Projeto | Descrição | Link |
+| --- | --- | --- |
+| 1º Projeto | Implementação dos métodos 1-nn, LDA e QDA para classificação da base ``dermatology``| [Link para acesso](#)
+| 2º projeto | Em breve | [Link para acesso](#)
+| 3º projeto | Em breve | [Link para acesso](#)
+| 4º Projeto | Em breve | [Link para acesso](#)
+
+<br>
+
+---
+
 O uso dos materiais disponíveis acima fica a critério do usuário, isentando o autor principal de qualquer problema.
 
 ---
