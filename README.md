@@ -37,8 +37,6 @@ Disciplina: Reconhecimento de Padrões (RP) (BBP1028) - 2026.1 </h3>
 
 Nesta parte do repositório, encontram-se os códigos implementados em cada projeto realizado na disciplina de ``Reconhecimento de Padrões (BBP1028)`` referente ao semestre 2026.1, com o objetivo de coorientar uma discente do programa. Todas as implementações foram feitas utilizando o software ``Octave 11.1.0 ``. <br>
 
-A lista de projetos será disponibilizada ao longo do semestre.
-
 A lista de projetos está disponibilizada na tabela a seguir:
 
 | Projeto | Descrição | Link |
